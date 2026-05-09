@@ -754,7 +754,12 @@ textarea.field {
   gap: var(--space-3);
   flex-wrap: wrap;
 }
-
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
 .toc {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
