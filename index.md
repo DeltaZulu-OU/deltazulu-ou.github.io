@@ -22,14 +22,29 @@ description: DeltaZulu OÜ is a small technology company focused on cybersecurit
       </p>
 
       <div class="hero-actions" style="justify-content:center; margin-bottom:0;">
-        <a
-          class="button button-primary"
-          href="https://github.com/DeltaZulu-OU"
-          target="_blank"
-          rel="noreferrer">
-          View on GitHub
-        </a>
-      </div>
+  <a
+    class="button button-primary"
+    href="https://github.com/DeltaZulu-OU"
+    target="_blank"
+    rel="noopener noreferrer">
+    View on GitHub
+  </a>
+
+  <a
+    class="button button-secondary"
+    href="https://www.linkedin.com/company/deltazulu"
+    target="_blank"
+    rel="noopener noreferrer">
+    Follow on LinkedIn
+  </a>
+
+  <a
+    class="button button-secondary"
+    href="mailto:info@deltazulu.ee">
+    Contact us
+  </a>
+</div>
+      
     </div>
   </div>
 </section> 
