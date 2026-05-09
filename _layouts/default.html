@@ -11,16 +11,18 @@
 <body>
   <header class="site-header">
     <div class="container inner">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="DeltaZulu home">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="DeltaZulu OÜ home">
         <picture>
           <source srcset="{{ '/assets/images/logo-light.png' | relative_url }}" media="(prefers-color-scheme: dark)">
-          <img src="{{ '/assets/images/logo-dark.png' | relative_url }}" alt="DeltaZulu logo" class="brand-logo">
+          <img src="{{ '/assets/images/logo-dark.png' | relative_url }}" alt="DeltaZulu OÜ logo" class="brand-logo">
         </picture>
-        <span>DeltaZulu</span>
+        <span>DeltaZulu OÜ</span>
       </a>
+
       <nav class="top-nav" aria-label="Primary">
-        <a href="#home">Home</a>
-        <a href="https://github.com/DeltaZulu-OU" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="mailto:info@deltazulu.ee">Email</a>
+        <a href="https://github.com/DeltaZulu-OU" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://www.linkedin.com/company/deltazulu" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </nav>
     </div>
   </header>
@@ -30,10 +32,19 @@
   </main>
 
   <footer class="footer">
-    <div class="container footer-inner">
-      <span>© {{ 'now' | date: '%Y' }} DeltaZulu</span>
-      <a href="https://github.com/DeltaZulu-OU" target="_blank" rel="noreferrer"><i class="fa fa-github" aria-hidden="true"></i></a>
+  <div class="container footer-inner">
+    <span>© {{ 'now' | date: '%Y' }} DeltaZulu OÜ</span>
+
+    <div class="footer-links">
+      <a href="mailto:info@deltazulu.ee">info@deltazulu.ee</a>
+      <a href="https://github.com/DeltaZulu-OU" target="_blank" rel="noopener noreferrer" aria-label="DeltaZulu OÜ on GitHub">
+        <i class="fa fa-github" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.linkedin.com/company/deltazulu" target="_blank" rel="noopener noreferrer" aria-label="DeltaZulu OÜ on LinkedIn">
+        <i class="fa fa-linkedin" aria-hidden="true"></i>
+      </a>
     </div>
+  </div>
   </footer>
 </body>
-</html>
+</html> 
