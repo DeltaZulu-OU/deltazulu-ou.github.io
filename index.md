@@ -146,7 +146,7 @@ description: DeltaZulu OÜ is a small technology company based in Tallinn, Eston
       <a class="repo" href="https://github.com/DeltaZulu-OU/dzmac" target="_blank" rel="noopener noreferrer">
         <div class="repo-head">
           <span class="repo-name">DeltaZulu-OU/dzmac</span>
-          <span class="repo-status">Alpha</span>
+          <span class="repo-status">Active</span>
         </div>
         <div class="repo-tagline">Spoof MAC addresses on Windows — a focused TMAC reimplementation.</div>
         <p class="body">A Windows desktop application with both GUI and CLI for managing adapter MAC addresses. A from-scratch reimplementation of Technitium MAC Address Changer with a narrower, more maintainable feature scope.</p>
