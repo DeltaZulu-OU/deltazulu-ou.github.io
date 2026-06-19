@@ -40,22 +40,22 @@ description: DeltaZulu OÜ is a small technology company based in Tallinn, Eston
   </div>
 </section>
 
-<section class="block" id="practice">
+<section class="block" id="services">
   <div class="container">
     <div class="section-head">
       <div class="section-head-left">
-        <span class="eyebrow">Practice</span>
-        <h2 class="section-title">Three areas, treated as one discipline.</h2>
+        <span class="eyebrow">Services</span>
+        <h2 class="section-title">Consultancy and assessment across the security stack.</h2>
       </div>
       <div class="section-head-right">
-        <p class="body">Cybersecurity, infrastructure, and defensive engineering are not separate motions for us. They are the same problem at different layers: keeping systems trustworthy when something unexpected hits them.</p>
+        <p class="body">We provide evidence-led consultancy and risk assessment services that translate operational realities into defensible controls. Our engagements span cybersecurity strategy, infrastructure resilience, and business continuity planning.</p>
       </div>
     </div>
 
     <div class="practice-grid">
       <article class="pillar">
         <div class="num">01</div>
-        <h3>Cybersecurity</h3>
+        <h3>Cybersecurity consultancy</h3>
         <p class="body">Practical, evidence-led security work — not posture theatre. We focus on the controls and telemetry that actually shape outcomes during an incident, and the audit artefacts buyers can defend in a review.</p>
         <div class="chip-row">
           <span class="chip">Threat exposure</span>
@@ -66,18 +66,18 @@ description: DeltaZulu OÜ is a small technology company based in Tallinn, Eston
 
       <article class="pillar">
         <div class="num">02</div>
-        <h3>Infrastructure</h3>
-        <p class="body">Networks, resolvers, edge services, identity boundaries — the load-bearing parts of an organisation's stack. We design, instrument, and harden infrastructure with operational realities in mind, not just topology diagrams.</p>
+        <h3>Risk assessment</h3>
+        <p class="body">Cybersecurity and operational resilience risk assessment aligned to regulatory frameworks (NIS2, DORA). We identify material exposures and provide actionable remediation paths that account for operational constraints.</p>
         <div class="chip-row">
-          <span class="chip">Network design</span>
-          <span class="chip">Hybrid deploys</span>
-          <span class="chip">Resolver hygiene</span>
+          <span class="chip">Compliance mapping</span>
+          <span class="chip">Exposure analysis</span>
+          <span class="chip">Remediation planning</span>
         </div>
       </article>
 
       <article class="pillar">
         <div class="num">03</div>
-        <h3>Defensive engineering</h3>
+        <h3>Business continuity</h3>
         <p class="body">Detection, response, drills, and the tooling that makes them survivable at small-team scale. We build for the operator who is on-call at 02:00, not for the slide-deck audience three quarters later.</p>
         <div class="chip-row">
           <span class="chip">Detection</span>
@@ -135,10 +135,10 @@ description: DeltaZulu OÜ is a small technology company based in Tallinn, Eston
     <div class="section-head">
       <div class="section-head-left">
         <span class="eyebrow">Open source</span>
-        <h2 class="section-title">Some of our work is published openly.</h2>
+        <h2 class="section-title">Supporting the community through direct contribution.</h2>
       </div>
       <div class="section-head-right">
-        <p class="body">FOSS releases are how we share the parts of our practice that are most useful to peers and downstream users. They are not the company's commercial surface — they are the operational scaffolding under it.</p>
+        <p class="body">We are committed to supporting Free and Open Source Software as a core part of our practice. FOSS releases represent our vision to give back to the community and share the operational scaffolding that underpins our work. We contribute new tools, enhancements, and integrations to strengthen the ecosystem.</p>
       </div>
     </div>
 
@@ -197,7 +197,7 @@ description: DeltaZulu OÜ is a small technology company based in Tallinn, Eston
     </div>
 
     <div class="os-foot">
-      <p class="note-text">Three current releases under the DeltaZulu-OU organisation. More tooling, including resolver-side telemetry and defensive-testing scaffolds, follows the same publish-when-useful cadence.</p>
+      <p class="note-text">Three current releases under the DeltaZulu-OU organisation. More tooling, including resolver-side telemetry and defensive-testing scaffolds, follows the same publish-when-useful cadence. We actively contribute to the broader security and infrastructure ecosystem.</p>
       <a class="button button-secondary" href="https://github.com/DeltaZulu-OU" target="_blank" rel="noopener noreferrer">
         Browse the GitHub org
         <span class="arrow" aria-hidden="true">→</span>
