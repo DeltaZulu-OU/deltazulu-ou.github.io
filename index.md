@@ -220,8 +220,8 @@ description: DeltaZulu OÜ is a small technology company based in Tallinn, Eston
 
     <div class="commercial-card">
       <div class="commercial-card-left">
-        <h3>The first commercial direction is protective DNS for regulated supply chains.</h3>
-        <p class="body">It builds on the same resolver-telemetry and evidence-output work that runs through our open practice. When it is ready to stand on its own page, it will have one.</p>
+        <h3>The first commercial directions are protective DNS and customer-owned security telemetry.</h3>
+        <p class="body">Protective DNS builds on the same resolver-telemetry and evidence-output work that runs through our open practice. A forthcoming SIEM extends that pattern into a modern data security pipeline: proper stream processing, near real-time rules, scheduled rules by default, and a data lake for long-term storage. The core principle is bring your own storage format — the data belongs to the customer.</p>
       </div>
       <div class="commercial-card-right">
         <div class="product-row">
@@ -234,7 +234,15 @@ description: DeltaZulu OÜ is a small technology company based in Tallinn, Eston
         </div>
         <div class="product-row">
           <span class="tag mono">02</span>
-          <div>
+        <div>
+            <div class="name">DeltaZulu SIEM</div>
+            <div class="desc">Stream processing, near real-time and scheduled rules, customer-owned data lake storage.</div>
+          </div>
+          <span class="status-chip">Forthcoming</span>
+        </div>
+        <div class="product-row">
+          <span class="tag mono">03</span> 
+           <div>
             <div class="name">Hosted operational services</div>
             <div class="desc">Managed defensive engagements for partner-led delivery.</div>
           </div>
